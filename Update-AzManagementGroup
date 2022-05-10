@@ -1,0 +1,1 @@
+Update-AzManagementGroup -GroupId 'ContosoIt' -DisplayName 'Contoso Group'
